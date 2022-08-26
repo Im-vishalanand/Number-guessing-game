@@ -27,7 +27,7 @@ int main(){
         {
             printf("Correct!\n");
             printf("The number is %d.\n", number);
-            printf("You guessed in %d attempts\n", nguesses);
+            printf("You guessed in %d attempts.\n", nguesses);
         }
         nguesses++;
 
